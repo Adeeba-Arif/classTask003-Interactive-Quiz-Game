@@ -8,4 +8,23 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+h1{
+    color: white;
+}
+p{
+    padding-top: 10px;
+}
+#question{
+    color: white;
+}
+#container{
+    margin-top: 250px;
+    margin-left: 200px;
+}
+#options{
+    padding-top: 150px;
+}
+input{
+    padding: 20px 30px;
+    cursor: pointer;
+}
